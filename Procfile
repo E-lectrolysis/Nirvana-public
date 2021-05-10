@@ -1,1 +1,0 @@
-worker: java -jar target/nirvanabot-1.0-SNAPSHOT.jar
